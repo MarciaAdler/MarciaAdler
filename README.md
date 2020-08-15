@@ -1,4 +1,4 @@
-![header](LinkedInHeader.png)
+![header](MarciaAdler/LinkedInHeader.png)
 
 * I'm currently working on a project that brings local communities together and allows people to leverage the power of community and crowdsourcing to get information and learn from others.
 
