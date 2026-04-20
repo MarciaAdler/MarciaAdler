@@ -1,3 +1,4 @@
+![header](https://github.com/MarciaAdler/MarciaAdler/blob/master/MarciaAdler_Header_04202026.png)
 
 * I'm currently learning more about AI and using AI in product management and to enhance products
 
