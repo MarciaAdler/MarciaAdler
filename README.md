@@ -4,7 +4,7 @@
 
 * I'm looking to join a Product and Engineering team, where I can collaborate with others to build impactful products that make users lives easier
 
-* I'm open to collaborating with others on ideas to develop apps that helps users in some way.
+* I'm open to collaborating with others on ideas to develop apps that helps users and leverage AI to build products that make a difference
 
 * My portfolio can be found at https://appsbymarcia.com
 
